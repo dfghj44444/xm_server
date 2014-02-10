@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TcpServer2", "TcpServer2\TcpServer2.vcproj", "{FA795026-3108-4BCD-B8F1-272CDF9070A7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UDPClient", "UDPClient\UDPClient.vcproj", "{8FC96B84-623F-411B-8FDB-3B5601466A30}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UDPServer", "UDPServer\UDPServer.vcproj", "{DFFFAE11-7084-475A-A350-9E3EB2623DD6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TcpClient", "TCPClient\Client.vcproj", "{5877E795-3EA9-487B-9F00-FF6EF35C23FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA795026-3108-4BCD-B8F1-272CDF9070A7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FA795026-3108-4BCD-B8F1-272CDF9070A7}.Debug|Win32.Build.0 = Debug|Win32
+		{FA795026-3108-4BCD-B8F1-272CDF9070A7}.Release|Win32.ActiveCfg = Release|Win32
+		{FA795026-3108-4BCD-B8F1-272CDF9070A7}.Release|Win32.Build.0 = Release|Win32
+		{8FC96B84-623F-411B-8FDB-3B5601466A30}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8FC96B84-623F-411B-8FDB-3B5601466A30}.Debug|Win32.Build.0 = Debug|Win32
+		{8FC96B84-623F-411B-8FDB-3B5601466A30}.Release|Win32.ActiveCfg = Release|Win32
+		{8FC96B84-623F-411B-8FDB-3B5601466A30}.Release|Win32.Build.0 = Release|Win32
+		{DFFFAE11-7084-475A-A350-9E3EB2623DD6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DFFFAE11-7084-475A-A350-9E3EB2623DD6}.Debug|Win32.Build.0 = Debug|Win32
+		{DFFFAE11-7084-475A-A350-9E3EB2623DD6}.Release|Win32.ActiveCfg = Release|Win32
+		{DFFFAE11-7084-475A-A350-9E3EB2623DD6}.Release|Win32.Build.0 = Release|Win32
+		{5877E795-3EA9-487B-9F00-FF6EF35C23FC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5877E795-3EA9-487B-9F00-FF6EF35C23FC}.Debug|Win32.Build.0 = Debug|Win32
+		{5877E795-3EA9-487B-9F00-FF6EF35C23FC}.Release|Win32.ActiveCfg = Release|Win32
+		{5877E795-3EA9-487B-9F00-FF6EF35C23FC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
